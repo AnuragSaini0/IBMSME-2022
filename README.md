@@ -1,2 +1,2 @@
 # SME1
-SME
+Hello Everyone, This is Day1 of SME
